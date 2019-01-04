@@ -1,0 +1,16 @@
+/*
+Theme Name: Czechitas - můj blogísek - child
+Theme URI: https://www.czechitas.cz/
+Author: Martin Hlaváč
+Author URI: https://www.hlavacm.net/
+Description: Můj blogísek (child) pro Czechitas na základě Clean Blog (https://startbootstrap.com/template-overviews/clean-blog/)
+Template: mujblogisek
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: CZECHITAS_DOMAIN
+*/
+
+body {
+    background-color: red !important;
+}
